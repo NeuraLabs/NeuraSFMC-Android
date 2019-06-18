@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NeuraSFMC</string>
+
+    <!-- Authenticate Fragment -->
+    <string name="marketing_cloud">marketing cloud</string>
+    <string name="neura">NEURA</string>
+    <string name="external_id_optional">External ID (Optional)</string>
+    <string name="connect">Connect</string>
+
+    <!-- Connected Fragment -->
+    <string name="disconnect">Disconnect</string>
+    <string name="neura_id">Neura ID</string>
+    <string name="external_id">External ID</string>
+
+    <!-- Sales Force -->
+    <string name="salesforce_application_id">e51935b2-6d00-4e82-bff5-1b8d7012de4b</string>
+    <string name="salesforce_access_token">RNFFV0IxaZCsxIUnOpYLr5ue</string>
+    <string name="fire_base_sender_id">921702001901</string>
+    <string name="marketing_cloud_server_url">https://mcp6s3ndq8z251ytqz3d1bgv5g5y.device.marketingcloudapis.com/</string>
+    <string name="salesforce_mid">100022228</string>
+
+</resources>

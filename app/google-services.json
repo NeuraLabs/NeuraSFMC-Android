@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921702001901",
+    "firebase_url": "https://neurasfmc.firebaseio.com",
+    "project_id": "neurasfmc",
+    "storage_bucket": "neurasfmc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921702001901:android:a768c48d2862df0c",
+        "android_client_info": {
+          "package_name": "com.neura.sfmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921702001901-81q6prlv61vr61r84icno5gpach2rgos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA05fbfMyGTaFstoQGeG4paFs4zZ4BuYVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921702001901-81q6prlv61vr61r84icno5gpach2rgos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

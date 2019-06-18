@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AA00ccff</color>
+    <color name="colorPrimaryDark">#AA00ccff</color>
+    <color name="colorAccent">#00ccff</color>
+    <color name="sf_gray">#97a3aa</color>
+    <color name="soft_red">#FF5C5C</color>
+    <color name="white">#FFF</color>
+    <color name="disconnect_red">#D78A9C</color>
+</resources>
